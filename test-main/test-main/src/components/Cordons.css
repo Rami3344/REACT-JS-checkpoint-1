@@ -1,0 +1,17 @@
+input{
+text-align: center;
+}
+.cordons{
+    color: red;
+    text-align: center;
+}
+body{
+    color: red;
+}
+button{
+    margin-top: 10px;
+}
+h3{
+    margin-top: 20px;
+    color: blue;
+}
